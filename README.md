@@ -29,3 +29,12 @@ top을 통해 맥의 시스템 현재 상태를 실시간으로 모니터한 예
 ```markdown
 ![ps 실행 화면](images/ps.png)
 ```
+
+---
+## jobs 예시
+현재 쉘에서 실행중인 백그라운드 작업들을 보여주는 명령어
+
+![ps 실행 화면](images/jobs.png)
+```markdown
+![ps 실행 화면](images/jobs.png)
+```
