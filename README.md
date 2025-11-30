@@ -1,6 +1,6 @@
-# Homework
+# Homework(오픈소스SW개론)
 ### top,ps.jobs,kill 조사
-(top,ps,kill
+**top, ps, jobs, kill**
 ---
 
 #명령어(테이블로 정리)
@@ -16,8 +16,14 @@
 ## top 예시
 top을 통해 맥의 시스템 현재 상태를 실시간으로 모니터한 예시를 이미지로 나타내보았다.
 
+## ✔ 자주 쓰는 명령어 예시
+```bash
+top
+top -o %CPU        # CPU 사용률 기준 정렬
+top -o %MEM        # 메모리 사용량 기준 정렬
+```
 ![top 실행 화면](images/top.png)
-```markdown
+```
 ![top 실행 화면](images/top.png)
 ```
 
@@ -26,7 +32,7 @@ top을 통해 맥의 시스템 현재 상태를 실시간으로 모니터한 예
 현재 실행중인 프로세스를 스탭샷 형태로 출력하는 명령어
 
 ![ps 실행 화면](images/ps.png)
-```markdown
+```
 ![ps 실행 화면](images/ps.png)
 ```
 
@@ -35,6 +41,6 @@ top을 통해 맥의 시스템 현재 상태를 실시간으로 모니터한 예
 현재 쉘에서 실행중인 백그라운드 작업들을 보여주는 명령어
 
 ![jobs 실행 화면](images/jobs.png)
-```markdown
+```
 ![jobs 실행 화면](images/jobs.png)
 ```
