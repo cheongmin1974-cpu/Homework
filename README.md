@@ -18,3 +18,6 @@ top을 통해 맥의 시스템 현재 상태를 실시간으로 모니터한 예
 
 ```markdown
 ![top 실행 화면](top.png)
+
+
+![top 실행 화면](top.png)
